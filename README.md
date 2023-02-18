@@ -9,8 +9,8 @@
 # pip install bs4
 # pkg install python-pip
 # pkg install wget
-# git clone 
-# cd 
+# git clone https://github.com/Santyrm/METASPLOIT_MSF6
+# cd METASPLOIT_MSF6
 # chmod +x metasploit.sh
 # bash metasploit.sh
 # Tunggu sampai instalasi nya selesai...
